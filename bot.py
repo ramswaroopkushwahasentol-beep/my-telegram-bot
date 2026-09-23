@@ -15,7 +15,7 @@ BOT_TOKEN = "8223193789:AAF0tR9P14igTuaGvKjKIzigEfzJLJ1ER6I"
 ADMIN_ID = 6278812118
 
 # आपका MongoDB Connection URL (पासवर्ड सेट है)
-MONGO_URI = "mongodb+srv://ramlakhankushwaha9977_db_user:stkzAF4FmpvpRrb4@cluster0.93sn40m.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URI = "mongodb+srv://ramlakhankushwaha9977_db_user:RamPass2026@cluster0.93sn40m.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # MongoDB कनेक्ट करें
 client = MongoClient(MONGO_URI)
